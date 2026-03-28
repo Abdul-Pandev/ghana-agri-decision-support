@@ -165,14 +165,14 @@ After one-hot encoding, the feature space expands significantly. Lasso penalises
 
 ## Results
 
-*Run the notebook to populate with live metrics. The table structure is ready.*
 
-| Model | Target | Algorithm | MAE | RMSE | R² |
-|---|---|---|---|---|---|
-| Baseline | Yield (kg/ha) | Linear Regression | — | — | — |
-| **Main** | **Yield (kg/ha)** | **Random Forest** | — | — | — |
-| Baseline | Days to Harvest | Linear Regression | — | — | — |
-| **Main** | **Days to Harvest** | **Random Forest** | — | — | — |
+| Model | Target | Algorithm | MAE | R² |
+|---|---|---|---|---|
+| Baseline | Yield (kg/ha) | Linear Regression | 1,615.9 kg/ha | 0.7659 |
+| Main | Yield (kg/ha) | Random Forest | 1,720.0 kg/ha | 0.7277 |
+| Baseline | Days to Harvest | Linear Regression | 25 | 0.7798 |
+| Main | Days to Harvest | Random Forest | 26 | 0.7591 |
+
 
 ---
 
