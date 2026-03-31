@@ -243,11 +243,20 @@ jupyter
 
 ---
 
-## About the Author
+## Contributors
 
-**Abdul Wahab Osman** — ML practitioner, entrepreneur, and founder based in Tamale, Northern Ghana.
+HarvestIQ Ghana was developed collaboratively by a team of six researchers and ML practitioners committed to building data-driven tools for African agriculture.
 
-I build machine learning solutions grounded in African contexts because the problems here are real, the data is scarce, and the people who need these tools the most are rarely the ones the global AI community builds for.
+| Name | Role |
+|---|---|
+| **Abdul Wahab Osman** | Project Lead & ML Practitioner — Tamale, Ghana |
+| **Issifu Salma** | Researcher & ML Contributor |
+| **Georgette Kweiki Narh** | Researcher & ML Contributor |
+| **Abdulai Mohammed** | Researcher & ML Contributor |
+| **Ewurabena Esther Appiah** | Researcher & ML Contributor |
+| **Solomon Yenyenle** | Researcher & ML Contributor |
+
+We build machine learning solutions grounded in African contexts because the problems here are real, the data is scarce, and the people who need these tools the most are rarely the ones the global AI community builds for.
 
 This project is part of a broader portfolio of Ghana-focused ML work including DumsorData (power outage prediction), HarvestIQ Post-Harvest (crop quality grading), and FoodQwik (AI-powered food ordering).
 
@@ -260,4 +269,4 @@ This project is part of a broader portfolio of Ghana-focused ML work including D
 
 ---
 
-*Built in Tamale, Ghana. For the farmers who never had a model on their side.*
+*Built in Ghana, by a team that believes African farmers deserve better tools.*
