@@ -1,4 +1,4 @@
-# 🌾 HarvestIQ Ghana
+# HarvestIQ Ghana
 ### An Agricultural Decision Support Tool for Ghanaian Smallholder Farmers
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org)
