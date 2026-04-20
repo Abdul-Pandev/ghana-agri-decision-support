@@ -269,4 +269,8 @@ This project is part of a broader portfolio of Ghana-focused ML work including D
 
 ---
 
+**Solomon is now  married man!**
+
 *Built in Ghana, by a team that believes African farmers deserve better tools.*
+
+### EDA Completed
