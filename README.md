@@ -272,4 +272,4 @@ This project is part of a broader portfolio of Ghana-focused ML work including D
 
 
 *Built in Ghana, by a team that believes African farmers deserve better tools.*
-## "EDA COMPLETED"
+### EDA COMPLETED## "EDA COMPLETED"
